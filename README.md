@@ -1,6 +1,7 @@
 # SOII
 Espaço para a organização das atividades da disciplina de Sistemas Operacionais II.
-## Primeira Atividade - Programando com PThreads
+
+### Primeira Atividade - Programando com PThreads
 Na tabela abaixo, segue uma avaliação dos tempos de execução do programa [pt_join.c]{link}, variando o número de threads e ajustando o seu número de iterações.
 | N° de Threads |   T.P.   | Tempo Gasto |
 |     :---:     |   :---:  |    :---:    |
