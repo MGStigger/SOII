@@ -3,7 +3,7 @@ Espaço para a organização das atividades da disciplina de Sistemas Operaciona
 
 
 ### Primeira Atividade - Programando com PThreads
-Na tabela abaixo, segue uma avaliação dos tempos de execução do programa [pt_join.c]{https://github.com/MGStigger/SOII/blob/main/pt_join.c}, variando o número de threads e ajustando o seu número de iterações.
+Na tabela abaixo, segue uma avaliação dos tempos de execução do programa [pt_join.c](https://github.com/MGStigger/SOII/blob/main/pt_join.c), variando o número de threads e ajustando o seu número de iterações.
 | N° de Threads |   T.P.   | Tempo Gasto |
 |     :---:     |   :---:  |    :---:    |
 |       4       |   10^12  | 3 min 43 seg|
