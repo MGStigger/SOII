@@ -19,4 +19,4 @@ Na tabela abaixo, segue uma avaliação dos tempos de execução do programa [pt
 |       1       |   10^11  |    44 seg   |
 |       1       |   10^10  |    5 seg    |
 
-**Equipamento utilizado**: Processador Intel(R) Core(TM) i3-2348M CPU @ 2.30GHz 2.30 GHz.
+**Equipamento utilizado**: Processador Intel(R) Core(TM) i3-2348M CPU @ 2.30GHz 2.30 GHz (2 núcleos físicos e 4 núcleos lógicos).
