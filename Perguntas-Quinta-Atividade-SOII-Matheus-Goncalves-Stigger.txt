@@ -1,0 +1,6 @@
+1. O que determina o surgimento de Relações de Precedência?
+2. O que são Offsets?
+3. O que são Release Jitters?
+4. Defina o conceito de atividade.
+5. O que são atividades síncronas e assíncronas?
+
